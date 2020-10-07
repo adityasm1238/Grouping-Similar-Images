@@ -1,6 +1,9 @@
 from keras.applications import MobileNetV2
+
 from keras.preprocessing import image
+
 from tqdm import tqdm 
+
 from PIL import Image
 import numpy as np
 import tensorflow as tf
